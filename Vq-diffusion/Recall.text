@@ -1,0 +1,42 @@
+starting evalute the Recall 
+starting evalute the Recall 
+starting evalute the Recall 
+starting evalute the Recall 
+starting evalute the Recall 
+starting evalute the Recall 
+starting evalute the Recall 
+starting evalute the Recall 
+starting evalute the Recall 
+starting evalute the Recall 
+ Epoch: [50]  R@1: 0.0121 R@5: 0.0332 R@10: 0.0553 R@50: 0.1761 
+starting evalute the Recall 
+ Epoch: [100]  R@1: 0.0141 R@5: 0.0362 R@10: 0.0704 R@50: 0.2284 
+starting evalute the Recall 
+ Epoch: [150]  R@1: 0.0060 R@5: 0.0292 R@10: 0.0563 R@50: 0.1992 
+starting evalute the Recall 
+ Epoch: [100]  R@1: 0.0010 R@5: 0.0091 R@10: 0.0241 R@50: 0.1227 
+starting evalute the Recall 
+ Epoch: [100]  R@1: 0.0010 R@5: 0.0091 R@10: 0.0241 R@50: 0.1227 
+starting evalute the Recall 
+starting evalute the Recall 
+starting evalute the Recall 
+ Epoch: [150]  R@1: 0.0060 R@5: 0.0272 R@10: 0.0453 R@50: 0.1831 
+starting evalute the Recall 
+starting evalute the Recall 
+ Epoch: [200]  R@1: 0.0070 R@5: 0.0302 R@10: 0.0624 R@50: 0.2072 
+starting evalute the Recall 
+starting evalute the Recall 
+ Epoch: [250]  R@1: 0.0080 R@5: 0.0423 R@10: 0.0805 R@50: 0.2696 
+starting evalute the Recall 
+starting evalute the Recall 
+ Epoch: [300]  R@1: 0.0131 R@5: 0.0513 R@10: 0.0946 R@50: 0.3018 
+starting evalute the Recall 
+ Epoch: [350]  R@1: 0.0211 R@5: 0.0674 R@10: 0.1177 R@50: 0.3350 
+starting evalute the Recall 
+starting evalute the Recall 
+ Epoch: [400]  R@1: 0.0201 R@5: 0.0644 R@10: 0.1197 R@50: 0.3541 
+starting evalute the Recall 
+starting evalute the Recall 
+starting evalute the Recall 
+starting evalute the Recall 
+ Epoch: [450]  R@1: 0.0211 R@5: 0.0775 R@10: 0.1419 R@50: 0.3531 
