@@ -11,7 +11,7 @@ To train or try our model, you can follow the steps in [![Open In Colab](https:/
 - CUB-200
 
 | **Method**    | **Input** | **FID ↓**     | **IS ↑**             |
-|-------------|---------------|-----------|---------------|----------------------|
+|-------------|---------------|-----------|---------------|
 |   StackGAN-v2   | text      | 15.30         | 4.04 ± 0.05          |
 | AttnGAN       | text      | -             | 4.36 ± 0.03          |
 | MirrorGAN     | text      | -             | 4.56 ± 0.05          |
